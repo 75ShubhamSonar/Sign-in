@@ -1,7 +1,7 @@
 .backcolor{
 background-color:#EEEEEE;
 width:100%;
-height:1200px;
+height:3500px;
 }
 
 .outer{
@@ -104,5 +104,5 @@ height:30px;
 background-color:white;
 border-radius:7px;
 border:none;
-border:1px solid #EEEEEE;
+border:2px solid #EEEEEE;
 }
