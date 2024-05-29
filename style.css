@@ -70,9 +70,9 @@ border-radius:3px;
 border:1.2px solid #5ddcff;
 }
 .new-to-amazon{
-width:37%;
+width:36%;
 height:80px;
-margin-left:350px;
+margin-left:340px;
 background-color:pink;
 }
 
@@ -100,7 +100,7 @@ background-color:#ffc200;
 border:none;
 }
 .amazon-account-btn{
-width:90%;
+width:80%;
 height:30px;
 background-color:white;
 border-radius:7px;
